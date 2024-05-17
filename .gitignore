@@ -1,6 +1,6 @@
 .vs/
-.x64/
-.PG3/
+x64/
+PG3/
 # Prerequisites
 *.d
 
