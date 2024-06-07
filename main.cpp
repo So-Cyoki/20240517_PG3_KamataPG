@@ -12,5 +12,7 @@ int main()
 	Rectangle* rectangle = new Rectangle(10, 10);
 	rectangle->Draw();
 
+	delete circle;
+	delete rectangle;
 	return 0;
 }
